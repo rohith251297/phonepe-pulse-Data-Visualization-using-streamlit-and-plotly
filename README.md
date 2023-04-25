@@ -1,4 +1,4 @@
-# phonepe-pulse-Data-Visualization-using-streamlit-and-plotly
+# phonepe-pulse-DataVisualization-using-streamlit-and-plotly
 PROJECT TITLE: Phonepe Pulse Data Visualization and Exploration:
                A User-Friendly Tool Using Streamlit and Plotly
 
